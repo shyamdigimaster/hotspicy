@@ -1,4 +1,4 @@
-/* .name{
+.name{
     width: 10%;
     cursor: pointer;
 }
@@ -6,8 +6,8 @@
     padding: 20px;
 }
 
-*{
+ *{
     margin: 0;
     padding: 0;
-    background-color: gainsboro;
-} */
+    /* background-color: gainsboro; */
+ }

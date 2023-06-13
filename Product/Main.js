@@ -14,7 +14,7 @@ export default function Main(){
         
          <div>
       
-           < Home />
+           {/* < Home />
            <Carouselo/>
 <Card />
 <Product />
@@ -25,8 +25,8 @@ export default function Main(){
 <Trendingproduct />
 
 <Clock />
-<Footer />
-{/* <Form/> */}
+<Footer /> */}
+<Form/>
         </div>
     
        

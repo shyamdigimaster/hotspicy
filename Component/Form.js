@@ -10,7 +10,7 @@ import './Form.css'
 export default function Form() {
   return (
     <>
-   <div className='container'>
+   <div className='container shadow p-3 mb-5 bg-white rounded mt-5'>
     <div className='row'>
 
         <div className='col-xl-12 col-xxl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12'>

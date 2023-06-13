@@ -32,7 +32,7 @@ export default function Form() {
 </div>
 
 
-<div className='row'>
+<div className='row '>
 <div className='col-xl-12 col-xxl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12'>
     <center>
   <p className='display-5'>Account Info</p>  

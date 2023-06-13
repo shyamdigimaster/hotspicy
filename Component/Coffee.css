@@ -1,0 +1,59 @@
+/* .Image:hover{
+    background-color: #212060;
+    transform: scale(1.1);
+    transition-duration: 0.6s;
+} */
+
+.Addtocard{
+    background-color:#212060;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+font-weight: bold;
+
+}
+.Addtocard:hover{
+    background-color: black;
+}
+
+.meetingground{
+    text-align: end;
+    margin-left: 0rem;
+    margin-top: 2rem;
+    cursor: pointer;
+
+}
+
+/* .meetingground:hover{
+    color:#4f4030;
+} */
+
+
+.coffeemocah{
+    text-align: end;
+
+    margin-left: 0rem;
+    margin-top: 15rem;
+cursor: pointer;
+}
+
+.Caffeine{
+    margin-left: -1rem;
+    margin-top: 0rem;
+
+    cursor: pointer;
+
+}
+
+.CoffeeImage:hover{
+    transform: scale(0.9);
+    transition-duration: 0.2s;
+}
+
+
+
+@media (max-width: 576px) {
+    .Caffeine{
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,11 @@
+.heading:hover{
+    border-bottom: 1px dotted red;
+    transition: .2s;
+    color: chocolate;
+    font-weight: 500;
+}
+
+.Image:hover{
+    transform: scale(1.2);
+    transition-duration: 0.6s;
+}

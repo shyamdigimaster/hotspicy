@@ -1,0 +1,23 @@
+.milkcho{
+    margin-top: 20px;
+    width: 60%;
+}
+
+.card{
+    width: 75%;
+    height: 75%;
+}
+
+.Addtocard{
+    padding:20px;
+    border: none;
+ 
+    margin-left: 70px;
+    background-color:rgb(33 32 96);
+    color: white;
+}
+
+.Addtocard:hover{
+    background-color:black;
+}
+

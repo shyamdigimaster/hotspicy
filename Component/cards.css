@@ -1,0 +1,97 @@
+/* .img {
+    width:80%;
+    z-index: 0; 
+}
+    
+.text-over-img {
+    z-index:1;
+    font-size: 1.2em;
+    margin-top:-100px;
+
+} */
+
+.chocolate{
+    margin-top: -12rem;
+    text-align: center;
+    color: white !important;
+    width: 100%;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.Crunch{
+    padding:20px;
+    border: none;
+ 
+    margin-left: 70px;
+    background-color:rgb(33 32 96);
+    color: white;
+}
+
+.Crunch:hover{
+    background-color:black;
+}
+
+.Thanksacrunch{
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.boxofchocolates{
+    margin-left: 12rem;
+    background-color:rgb(33 32 96);
+    color: white;
+    border: none;
+}
+
+.boxofchocolates:hover{
+    background-color:black;
+}
+
+/* .Image:hover{
+    transform: scale(0.9);
+    transition-duration: 0.6s;
+} */
+
+.Imageing:hover{
+    transform: scale(0.9);
+    transition-duration: 0.6s;
+}
+
+
+@media (max-width: 576px){
+
+
+    .darkchocolate{
+        width: 75% !important;
+        height: 75% !important;
+        margin-top: 7rem;
+        margin-left: 4rem;
+        padding: 1rem;
+        }
+
+
+        .slicedchocolate{
+            font-size: 18px;
+            color: white;
+      }
+
+
+.Thanksacrunch{
+    color: white !important;
+    font-size: 18px;
+}
+
+.boxofbutton{
+
+    margin-top: -1rem;
+}
+}
+
+
+@media  (min-width: 992px) { 
+.boxofbutton{
+    margin-top: -2rem;
+}
+
+}
